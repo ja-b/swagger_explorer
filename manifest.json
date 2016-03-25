@@ -1,0 +1,11 @@
+{
+  "name": "Swagger Explorer",
+  "version": "0.1",
+  "description": "It's a start",
+  "devtools_page": "build/html/explorer.html",
+  "permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+  "manifest_version": 2
+}

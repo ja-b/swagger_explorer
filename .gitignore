@@ -1,0 +1,5 @@
+*.idea
+*.DS_Store
+semantic/
+node_modules/
+build/js/*
